@@ -1,0 +1,1 @@
+/home/olfreg314/.vim/vimrc
